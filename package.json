@@ -1,6 +1,6 @@
 {
   "name": "jikan-node",
-  "version": "1.2.0",
+  "version": "1.2.1",
   "description": "Wrapper for the unofficial MAL api, Jikan",
   "main": "jikan-node.js",
   "directories": {
@@ -27,7 +27,7 @@
     "api"
   ],
   "author": "xy137",
-  "license": "ISC",
+  "license": "MIT",
   "bugs": {
     "url": "https://github.com/xy137/jikan-node/issues"
   },
